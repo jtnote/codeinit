@@ -6,3 +6,7 @@ npm i babel-preset-env babel-preset-react --save-dev
 {  
   "presets": ["env", "react"]  
 }  
+
+#for node.js package install
+npm install --global --production windows-build-tools
+#https://github.com/nodejs/node-gyp
